@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
-![Alt text](/Users/mingyang/Desktop/picture.jpeg){width=250px}
+```{r, echo=FALSE}
+knitr::include_graphics("picture.jpeg")
+```
 <br>
 <br>
 <br>
