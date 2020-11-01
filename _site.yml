@@ -1,0 +1,8 @@
+name: "My DS Profile"
+navbar:
+  title: "Nick's Data Science Profile"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Beer Study"
+      href: Case_Study_1.html
