@@ -6,5 +6,3 @@ navbar:
       href: index.html
     - text: "Beer Study"
       href: Case_Study_1.html
-    - text: "Beer and Brewery Shiny App"
-      href: https://nickmingyang.shinyapps.io/BeerBreweryApp/
