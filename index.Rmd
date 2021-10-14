@@ -17,7 +17,7 @@ knitr::include_graphics("picture.jpeg")
 <br>
 <br>
 <h3>Introduction:</h3>
--Coming from an engineering and science background, I find my potential not lying solely in coding or engineering. Rather, I challenged myself with a different field in the professional world. I excelled and grew into various positions over the years. Different perspectives have elevated my business mindset to a higher level. As a constant learner and always keeping up with the fast changing world, I am currently pursuing a second master's degree in Data Science at Southern Methodist University. With my deep understanding of engineering and science along with 3+ years of B2C business development experience, I am looking to apply my hard and soft skills from diversified domains to the world of Data.
+- Coming from an engineering and science background, I find my potential not lying solely in coding or engineering. Rather, I challenged myself with a different field in the professional world. I excelled and grew into various positions over the years. Different perspectives have elevated my business mindset to a higher level. As a constant learner and always keeping up with the fast changing world, I am currently pursuing a second master's degree in Data Science at Southern Methodist University. With my deep understanding of engineering and science along with 3+ years of B2C business development experience, I am looking to apply my hard and soft skills from diversified domains to the world of Data.
 Email: nickmingyang@gmail.com
 
 
