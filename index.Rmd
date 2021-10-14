@@ -17,15 +17,29 @@ knitr::include_graphics("picture.jpeg")
 <br>
 <br>
 <h3>Introduction:</h3>
-- Coming from a technology background, I accomplished excellent academic achievement earning a Bachelor Degree in Electrical Engineering from Illinois Institute of Technology and a Master Degree in Computer Science from University of Chicago. After graduation, knowing my potential did not lie solely in coding and science, I decided to challenge myself in a completely new field - Luxury Sales. During my four years of B2C/B2B selling, I not only elevated my business mindset to a higher level, but also brought myself to a crossroad of my career path. I am currently pursuing Data Science master degree at SMU, and looking forward to combine my coding and analytical skills with my acquired domain knowledge.
+-Coming from an engineering and science background, I find my potential not lying solely in coding or engineering. Rather, I challenged myself with a different field in the professional world. I excelled and grew into various positions over the years. Different perspectives have elevated my business mindset to a higher level. As a constant learner and always keeping up with the fast changing world, I am currently pursuing a second master's degree in Data Science at Southern Methodist University. With my deep understanding of engineering and science along with 3+ years of B2C business development experience, I am looking to apply my hard and soft skills from diversified domains to the world of Data.
+Email: nickmingyang@gmail.com
 
 
 <h3>Education:</h3>
-- Illinois Institute of Technology - B.S. Electrical Engineering
-- University of Chicago - M.S. Computer Science
 - Southern Methodist University - M.S. Data Science
+- University of Chicago - M.S. Computer Science
+- Illinois Institute of Technology - B.S. Electrical Engineering
 
-<h3>Experience:</h3>
+<h3>Project Experience:</h3>
+<h5>Actively Predicting Loan Defaults for LendingClub</h5>
+- Analyzed and cleaned large amount of LendingClub Loan Data in Python. Procedures include dealing with missing data, data imputation, creating new features, statistics and visualization of attributes, Principle Component Analysis, etc
+- Built machine learning pipelines using various machine learning techniques to predict loan default prior to occurrence, methods used including SVM, Decision Tree, Logistic Regression, Random Forest, XGBoost and Deep Neural Network
+- Tested and refined different ML models using grid search and stratified cross validation due to class imbalance. Additional validation set was utilized to compare model performance and prevent over-fitting
+- Lead team with project efforts on multiple fronts and ensured highest quality of deliverables
+
+<h5>Vehicle Price Modeling and Prediction</h5>
+- Analyzed and cleaned vehicle sales data to build multiple linear regression model for interpretation of feature importance using R
+- Developed additional multiple linear regression model with interaction of variables as well as nonparametric model to further improve prediction score
+- Lead model building efforts and generated high quality deliverables
+
+
+<h3>Work Experience:</h3>
 <h5>Graff Sales Professional</h5>
 - Seemlessly integrated modern Clienteling and traditional Customer Relationship Management for brand marketing
 - Met beyond the brand’s highest visual and merchandising standards
@@ -46,7 +60,7 @@ knitr::include_graphics("picture.jpeg")
 - Hiking & Travel
 - Gym
 
-<h4>**The other tabs represent work/analyses that I have completed. Please check them out!**</h4>
+<h4>**The other tabs represent some work/analyses that I have completed in R. More work in Python is in GitHub Repo.**</h4>
 <br>
 <br>
 
