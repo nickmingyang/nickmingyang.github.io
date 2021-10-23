@@ -4,6 +4,14 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
+    - text: "Delinquency Prediction"
+      href: casestudy4_Grijalva_Norelli_YU.html
+    - text: "Spam Filter Classifier"
+      href: casestudy3_Grijalva_Norelli_YU.html
+    - text: "Diabetes Readmission Study"
+      href: casestudy2_Grijalva_Norelli_YU.html
+    - text: "Superconductor Analysis"
+      href: casestudy1_Grijalva_Norelli_YU.html
     - text: "Beer Study"
       href: Case_Study_1.html
     - text: "Attrition Study"
